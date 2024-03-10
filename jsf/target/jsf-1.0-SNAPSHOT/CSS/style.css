@@ -1,0 +1,39 @@
+.colorOne{
+    background-color: #0F143C;
+
+    color: white;
+}
+.colorTwo{
+    background-color: #3B4E93;
+    color: white;
+}
+.colorThree{
+    background-color: #e0d1d0;
+
+}
+.colorFour{
+    background-color: #C9B0B6;
+}
+
+
+.colorFive{
+    background-color: #9390AF;
+    color: white;
+}
+.columnSix{
+    display: flex;
+    gap: 10px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+.pagination{
+    gap: 10px;
+    display: flex;
+}
+.sub-pagination{
+    gap: 2px;
+    display: flex;
+}
